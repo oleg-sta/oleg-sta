@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Oleg Stadnichenko
+
+🚀 Marvelous Senior Backend Software Developer
+📚 Like to share my knowledge on [Medium profile](https://medium.com/@stoleg)
+🎤 Beginner Public Speaker
+🏠💻 Live and work in London
 
 <!--
 **oleg-sta/oleg-sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
