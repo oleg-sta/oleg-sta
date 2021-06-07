@@ -6,6 +6,7 @@
 🏠💻 Live and work in London<br />
 <a href="https://www.linkedin.com/in/oleg-stadnichenko/">Linkedin</a><br />
 <a href="https://www.facebook.com/oleg.sta/">Facebook</a><br />
+<a href="https://twitter.com/oleg_sta">Twitter</a><br />
 
 <!--
 **oleg-sta/oleg-sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
