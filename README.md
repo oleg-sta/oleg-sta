@@ -5,14 +5,14 @@
 🎤 Beginner Public Speaker<br />
 🏠💻 Live and work in London<br />
 <br>
-Presentations<br>
-2021
+🎤 Public Speaking<br>
+2021<br>
 21 May: LJC Virtual Meetup - <a href="https://youtu.be/X_7Of1c9zIY?t=3213">Microservice Readiness Checklist(lightning talk)</a><br>
 7 May: LJC Virtual Meetup - <a href="https://youtu.be/Dz1iR7__dro?t=863">Envoy proxy is a service mesh for microservices(lightning talk)</a><br>
 23 April: LJC Virtual Meetup - <a href="https://youtu.be/KCSxVEb25aU?t=1754">Why should you use gRPC for microservices?(lightning talk)</a><br>
 
 <br>
-Posts<br>
+📚 Posts<br>
 2021<br>
 6 June: Medium in Geek Culture- <a href="https://medium.com/geekculture/dont-forget-to-check-microservice-aceb2f26d70a">Don’t forget to check your Microservice</a><br>
 11 January: Medium in Start it up - <a href="https://medium.com/swlh/create-your-own-ar-application-on-android-9274e55b3150">Create Your Own AR Application on Androide</a><br>
