@@ -14,12 +14,12 @@ Presentations<br>
 <br>
 Posts<br>
 2021<br>
-6 June: Medium - <a href="https://medium.com/geekculture/dont-forget-to-check-microservice-aceb2f26d70a>Don’t forget to check your Microservice</a><br>
-11 January: Medium - <a href="https://medium.com/swlh/create-your-own-ar-application-on-android-9274e55b3150>Create Your Own AR Application on Androide</a><br>
+6 June: Medium - <a href="https://medium.com/geekculture/dont-forget-to-check-microservice-aceb2f26d70a">Don’t forget to check your Microservice</a><br>
+11 January: Medium - <a href="https://medium.com/swlh/create-your-own-ar-application-on-android-9274e55b3150">Create Your Own AR Application on Androide</a><br>
 <br>
 2020<br>
-16 October: Medium - <a href="https://stoleg.medium.com/optimize-your-database-5df4d8f1193c>Optimize your database</a><br>
-9 October: Medium - <a href="https://medium.com/the-innovation/coffee-sessions-with-the-team-148438d93352>Coffee sessions with the team</a><br>
+16 October: Medium - <a href="https://stoleg.medium.com/optimize-your-database-5df4d8f1193c">Optimize your database</a><br>
+9 October: Medium - <a href="https://medium.com/the-innovation/coffee-sessions-with-the-team-148438d93352">Coffee sessions with the team</a><br>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/oleg-stadnichenko/">Linkedin</a><br />
