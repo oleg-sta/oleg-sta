@@ -7,6 +7,7 @@
 <br>
 🎤 Public Speaking<br>
 2021<br>
+27 July: LJC Vitual Meetup - <a href="https://www.youtube.com/watch?v=ZOdpAhGA0OI">What is SSL connection and how to configure it</a><br>
 21 May: LJC Virtual Meetup - <a href="https://youtu.be/X_7Of1c9zIY?t=3213">Microservice Readiness Checklist(lightning talk)</a><br>
 7 May: LJC Virtual Meetup - <a href="https://youtu.be/Dz1iR7__dro?t=863">Envoy proxy is a service mesh for microservices(lightning talk)</a><br>
 23 April: LJC Virtual Meetup - <a href="https://youtu.be/KCSxVEb25aU?t=1754">Why should you use gRPC for microservices?(lightning talk)</a><br>
