@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Oleg Stadnichenko
 <br />
-🚀 Marvelous Senior Backend Software Developer<br />
-📚 Like to share my knowledge on <a href="https://medium.com/@stoleg">Medium</a><br />
+🚀 Marvelous Senior Backend Software Developer, more info on <a href="https://www.linkedin.com/in/oleg-stadnichenko/">Linkedin</a> <br />
+📚 Like to share my knowledge<br />
 🎤 Beginner Public Speaker<br />
 🏠💻 Live and work in London<br />
 <br>
