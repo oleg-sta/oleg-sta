@@ -15,6 +15,7 @@
 <br>
 📚 Posts<br>
 2021<br>
+28 July: InfoQ <a href="https://www.infoq.com/articles/android-ar-app-vrface/">Add Augmented Reality Effects to Android Apps Using the VrFace Library</a><br>
 6 June: Medium in Geek Culture- <a href="https://medium.com/geekculture/dont-forget-to-check-microservice-aceb2f26d70a">Don’t forget to check your Microservice</a><br>
 11 January: Medium in Start it up - <a href="https://medium.com/swlh/create-your-own-ar-application-on-android-9274e55b3150">Create Your Own AR Application on Androide</a><br>
 <br>
