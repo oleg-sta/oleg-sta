@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Oleg Stadnichenko
 <br />
-🚀 Marvelous Staff Engineer, more info on <a href="https://www.linkedin.com/in/oleg-stadnichenko/">Linkedin</a> <br />
+🚀 Technical Leader, more info on <a href="https://www.linkedin.com/in/oleg-stadnichenko/">Linkedin</a> <br />
 📚 Like to share my knowledge<br />
-🎤 Beginner Public Speaker<br />
+🎤 Public Speaker<br />
 🏠💻 Live and work in London<br />
 <br>
 🎤 Public Speaking<br>
