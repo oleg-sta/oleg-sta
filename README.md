@@ -6,6 +6,9 @@
 🏠💻 Live and work in London<br />
 <br>
 🎤 Public Speaking<br>
+2023<br/>
+15 June: London Java Community Meetup - <a href="https://www.youtube.com/watch?v=l9oIVqKYLo0">Breaking Up the Monolith. Why? The Benefits and Challenges of Microservices</a><br>
+15 May: Women Who Code London Meetup - <a href="https://www.youtube.com/watch?v=GEp5EhF6Nrw">Breaking Up the Monolith. Why? The Benefits and Challenges of Microservices</a><br>
 2021<br>
 27 July: LJC Vitual Meetup - <a href="https://www.youtube.com/watch?v=ZOdpAhGA0OI">What is SSL connection and how to configure it</a><br>
 21 May: LJC Virtual Meetup - <a href="https://youtu.be/X_7Of1c9zIY?t=3213">Microservice Readiness Checklist(lightning talk)</a><br>
